@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--         <item name="colorPrimary">@color/blue</item>-->
+<!--        <item name="colorPrimaryDark">@color/blue</item>-->
+<!--        <item name="colorAccent">@color/blue</item>-->
+    </style>
+
+    <!-- Base application theme with ActionBar. -->
+    <style name="Base.Theme.TugasActionBar.WithActionBar"
+        parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here, similar to the theme without
+       ActionBar. -->
+<!--         <item name="colorPrimary">@color/blue</item>-->
+    </style>
+
+    <style name="Theme.TugasActionBar" parent="Base.Theme.TugasActionBar" />
+<!--    <style name="Theme.TugasActionBar.WithActionBar"-->
+<!--        parent="Base.Theme.TugasActionBar.WithActionBar" />-->
+</resources>
